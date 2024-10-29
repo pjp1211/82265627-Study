@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>cloudsample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cloudsample</name>
+	<name>82265627</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -38,8 +38,8 @@
 	<distributionManagement>
 		<repository>
 		<id>github</id>
-		<name>GitHub axccoe Apache Maven Packages</name>
-		<url>https://maven.pkg.github.com/axccoe/cloud-sample</url>
+		<name>GitHub pjp1211 Apache Maven Packages</name>
+		<url>https://maven.pkg.github.com/pjp1211/82265627</url>
 		</repository>
 	</distributionManagement>
 
