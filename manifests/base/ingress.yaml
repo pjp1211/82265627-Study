@@ -2,10 +2,11 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: cloud-sample-ingress
+  namespace: "82265627"
 spec:
   ingressClassName: ingress-internal
   rules:
-  - host: cloud-sample.cepg-aa.kubepia.net
+  - host: app-82265627.cepg-aa.kubepia.net
     http:
       paths:
       - path: /
