@@ -2,10 +2,14 @@ apiVersion: v1
 kind: Service
 metadata:
 <<<<<<< HEAD
+<<<<<<< HEAD
     name: "82265627"
 =======
     name: cloud-sample
 >>>>>>> 77847b5 (manifest 수정)
+=======
+    name: "82265627"
+>>>>>>> 62da308 (yaml  수정)
     namespace: "82265627"
 spec:
     ports:
