@@ -3,6 +3,7 @@ kind: Service
 metadata:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     name: "82265627"
 =======
     name: cloud-sample
@@ -10,6 +11,9 @@ metadata:
 =======
     name: "82265627"
 >>>>>>> 62da308 (yaml  수정)
+=======
+    name: "82265627"
+>>>>>>> 1ab8ed187145540dc6005de85ab21acb3d5623d2
     namespace: "82265627"
 spec:
     ports:
