@@ -74,10 +74,6 @@ jobs:
         cd manifests
         git config --global user.email "github-actions@github.com"
         git config --global user.name "github-actions"
-        git stash
-        git pull --rebase origin main
-        git stash pop
-        git add .
         git commit -am "Update image tag"
         git push -u origin main
         
