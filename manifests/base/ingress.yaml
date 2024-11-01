@@ -1,19 +1,7 @@
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   name: "82265627"
-=======
-  name: cloud-sample-ingress
->>>>>>> 77847b5 (manifest 수정)
-=======
-  name: "82265627"
->>>>>>> 62da308 (yaml  수정)
-=======
-  name: "82265627"
->>>>>>> 1ab8ed187145540dc6005de85ab21acb3d5623d2
   namespace: "82265627"
 spec:
   ingressClassName: ingress-internal
